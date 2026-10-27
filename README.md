@@ -19,7 +19,7 @@ Set up VirtualBox and Kali Linux for the Week 1 lab.
 - [ ] Virtual machine snapshot created
 
 ## Screenshots
-Lab screenshots will be stored in the `screenshots/` folder.
+Lab screenshots will be stored in the `Screenshots/` folder.
 
 ## Summary
 This repository documents my progress on the Networkwalks Week 1 VirtualBox and Kali Linux lab setup.
